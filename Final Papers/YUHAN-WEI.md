@@ -83,6 +83,9 @@ Inclusion: Promotes diversity, equity, and inclusion, ensuring that all voices a
 
 Since the goal of the project is to eventually build interactive dashboards for all accounting modules covered in all accounting courses in gies college of business, the project will have a standardized working cycle involving 5 phases and will repeat it for every module that under the development
 
+<img width="520" alt="Screen Shot 2023-12-19 at 03 06 40" src="https://github.com/OREL-group/Project-Management/assets/73293122/11d1678d-fe2c-4518-996f-66c9db415333">
+
+
 #### Phase 1: Initial SetUp
 
 This phase is initiated when the teams are formed for the project. All the members from both Team 1 and Team 2 will involve in this phase. They are going to define a shared code of conduct to ensure a harmonious work environment as aforementioned. Also, they are going to double check if the current option of using Python, Plotly, HTML, CSS, and Flask is the most suitable selection of programming languages and frameworks, and if there is other better options. If necessary, argument map will be utilized to record team’s ideas toward the selection of programming languages. Two files should be stored in Github workspace under “Project Management” folder during this phase: the code of conduct, and argument map.
@@ -107,6 +110,8 @@ This phase builds the loop of the working cycle. If any improvement is identifie
 
 The following picture presents how the files and folders are managed in GitHub. Squares with light blue represent folders, while squares with white represent files under the folder. Key Words listed after the parentheses represents the contents should be included in the file. Markdown language is involved when creating certain files.
 
+<img width="966" alt="Screen Shot 2023-12-19 at 10 52 42" src="https://github.com/OREL-group/Project-Management/assets/73293122/ca1c6387-df92-46a2-b15a-eed669cad28b">
+
 ### Licensing 
 
 The project adopts the CC BY-NC-SA license to regulate resource distribution, ensuring educational accessibility while safeguarding intellectual property. The tool developed through this project is aimed to be used for educational purpose. Therefore, it is restricted from commercial usage under this license. Nevertheless, this license permits resource adaptation and sharing for educational purposes. Since other universities can also become potential users. This license allows other universities to adapt our project codes and customize their own accounting educational webpage.
@@ -121,5 +126,5 @@ The development of the webpage with interactive dashboards through this project 
 
 ### References     
 
-Batalha, C. M. (2021). The impact of technology in accounting education: a systematic literature review. ISCTE-IUL.
+Batalha, C. M. (2021). The impact of technology in accounting education: a systematic literature review. ISCTE-IUL. https://repositorio.iscte-iul.pt/bitstream/10071/24794/1/master_carolina_milharado_batalha.pdf
 
