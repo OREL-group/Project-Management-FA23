@@ -1,7 +1,7 @@
 Open AI: Creating ML Model For Community-Driven Innovation
 ======================
 
-Cristian Perez   (<br>)
+Cristian Perez<br />
 IS 340  (<br>)
 Fall 2023
 
