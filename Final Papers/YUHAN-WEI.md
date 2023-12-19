@@ -42,6 +42,12 @@ The integration of GitHub, Slack, and Zoom supports efficient project management
 
 GitHub is the core platform utilized in this project, which provides strong version control via pull requests. By allowing contributors to submit changes, examine revisions, and merge changes into the main codebase, pull requests help to establish a methodical approach to collaboration. The advantages are numerous, as they promote an organized workflow, improve code quality via reviews, and guarantee a smooth development process through version tracking. GitHub also provides specific documentation repositories, acting as an all-inclusive library for project-related content. Furthermore, the project will utilize the Kanban roadmap to create issues and track progress. 
 
+Furthermore, the project will utilize the Kanban roadmap to create issues and track progress as demonstrated in the following graph. 	
+
+<img width="940" alt="Screen Shot 2023-12-19 at 11 17 34" src="https://github.com/OREL-group/Project-Management/assets/73293122/4d45ddfd-bdba-4f3b-9708-a20803c7ee0b">
+
+Issues are mainly divided into 4 categories: Urgent, In Progress, On Hold, and Completed. With each issue, it will have the title and name of the issue, the assignee, and tagging. From the assignee, we can see which team is responsible for the issue. From the two tagging, we can see to which accounting module this issue is related and in which working phase the issue is situating. When we click on the issue, it will be directed into the issue detail page where we can see the descriptions about the issue and guidance on how to resolve it. In this way, with the Kanban Roadmap, it allows team members to effectively and collaboratively address and track project challenges.
+
 #### Slack for Real-time Communication and Team Binding
 
 Slack provides a platform for communication, enabling team to have real-time discuss about tasks and other work-related questions. Moreover, a team channel can be established for team building on Slack. It extends beyond work-related discussions, allowing team members to share personal experiences, images, or messages. This channel can also be used to plan and coordinate social events and team-building exercises, creating a supportive and positive team environment.
@@ -111,6 +117,8 @@ This phase builds the loop of the working cycle. If any improvement is identifie
 The following picture presents how the files and folders are managed in GitHub. Squares with light blue represent folders, while squares with white represent files under the folder. Key Words listed after the parentheses represents the contents should be included in the file. Markdown language is involved when creating certain files.
 
 <img width="966" alt="Screen Shot 2023-12-19 at 10 52 42" src="https://github.com/OREL-group/Project-Management/assets/73293122/ca1c6387-df92-46a2-b15a-eed669cad28b">
+
+GitHub workspace is clearly divided into three sections: webpage coding, descriptive documents for each accounting module under development, project management and team coordination documents. Such effective folder organization forms efficient workspace which advances the quality of working collaboratively.
 
 ### Licensing 
 
